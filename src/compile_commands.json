@@ -1,0 +1,107 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/main.o",
+            "main.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "main.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/quarantine.o",
+            "quarantine.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "quarantine.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/saveStats.o",
+            "saveStats.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "saveStats.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/scanning.o",
+            "scanning.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "scanning.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/hashing.o",
+            "hashing.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "hashing.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/scanningInBackground.o",
+            "scanningInBackground.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "scanningInBackground.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Ofast",
+            "-march=native",
+            "-o",
+            "obj/aes.o",
+            "aes.cpp"
+        ],
+        "directory": "/home/xavi/Documents/bso/antivirus/src",
+        "file": "aes.cpp"
+    }
+]
